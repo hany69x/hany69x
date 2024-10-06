@@ -3,7 +3,7 @@
 
 - 📫 Contact: **Hanymedsalah@gmail.com**
 <p align="center">
-    <img src="Hany Mohamed Salh.png" alt="Hany Mohamed Salh" style="width: 150px; border-radius: 50%;" />
+    <img src="Hany Mohamed Salh.png" alt="Hany Mohamed Salh" style="width: 1000px; border-radius: 500%;" />
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
