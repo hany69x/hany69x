@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hany Mohamed Salh</h1>
-<h3 align="center">Software Engineer</h3>
-
-- 📫 Contact: **Hanymedsalah@gmail.com**
 <p align="center">
-    <img src="Hany Mohamed Salh.png" alt="Hany Mohamed Salh" style="width: 1000px; border-radius: 500%;" />
+    <img src="Hany Mohamed Salh.png" alt="Hany Mohamed Salh" style="width: 140000px; border-radius: 600%;" />
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
