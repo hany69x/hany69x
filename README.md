@@ -17,7 +17,7 @@ I'm a passionate software engineer with a specialization in Data Science and Bus
 <!-- Connect with Me Section -->
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
-    <a href="mailto:hanymedsalah@gmail.com" target="blank">
+<a href="mailto:hanymedsalah@gmail.com" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30" width="40" />
 </a>
 <a href="https://www.linkedin.com/in/hany69/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
