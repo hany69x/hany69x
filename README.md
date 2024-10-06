@@ -10,8 +10,8 @@
 I'm a passionate software engineer with a specialization in Data Science and Business Intelligence. I focus on leveraging data to create predictive models, data visualization, and dashboards. My expertise includes machine learning, time series forecasting, and building end-to-end data solutions. Currently, I'm working on automotive demand forecasting using advanced predictive models and dashboard applications.
 </p>
   
-- 🔭 Currently working on **Forecasting Automotive Demand for Yazaki Automotive**  
-- 💼 Exploring opportunities in **Data Science, Business Intelligence, and Predictive Modeling**  
+- 🔭 Currently working on **Forecasting Automotive Demand ** for a multinational car parts supplier. 
+- 💼 Exploring opportunities in **Data Science, Business Intelligence, Machine Learning and Predictive Modeling**  
 - 📫 Reach me at: **hanymedsalah@gmail.com**
 
 <!-- Connect with Me Section -->
