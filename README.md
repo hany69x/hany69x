@@ -1,6 +1,6 @@
 <!-- Profile Image -->
 <p align="center">
-    <img src="Hany Mohamed Salh.png" alt="Hany Mohamed Salh" style="width: 1900px; border-radius: 600%;" />
+    <img src="Hany Mohamed Salh.jpg" alt="Hany Mohamed Salh" style="width: 1900px; border-radius: 600%;" />
 </p>
 
 <!-- Title -->
