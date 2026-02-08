@@ -1,77 +1,124 @@
-<!-- Profile Image -->
+<!-- ============== HERO / BANNER ============== -->
 <p align="center">
-    <img src="Hany Mohamed Salh.jpg" alt="Hany Mohamed Salh" style="width: 1900px; border-radius: 600%;" />
+  <!-- Option A: generated banner (no file needed) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hani%20Mohamed%20Salah&fontAlign=50&fontAlignY=38&desc=IT%20Support%20%7C%20System%20Administration%20%7C%20BI%20%26%20Data%20Analysis&descAlign=50&descAlignY=60" />
 </p>
 
-<!-- Title -->
-<!-- About Me Section -->
-<h3 align="left">About Me:</h3>
-<p align="left">
-I'm a passionate software engineer with a specialization in Data Science and Business Intelligence. I focus on leveraging data to create predictive models, data visualization, and dashboards. My expertise includes machine learning, time series forecasting, and building end-to-end data solutions. Currently, I'm working on automotive demand forecasting using advanced predictive models and dashboard applications.
-</p>
-  
-- 🔭 Currently working on **Forecasting Automotive Demand** for a multinational car parts supplier. 
-- 💼 Exploring opportunities in **Data Science, Business Intelligence, Machine Learning and Predictive Modeling**  
-- 📫 Reach me at: **hanymedsalah@gmail.com**
-
-<!-- Connect with Me Section -->
-<h3 align="left">Connect with Me:</h3>
-<p align="left">
-<a href="mailto:hanymedsalah@gmail.com" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/hany69/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/hanyx69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://fb.com/hany69x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCCTefEh1gKwrFZIXy9zfZjQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:hanymedsalah@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hanymedsalah%40gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hany69/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="tel:+4915511360453">
+    <img src="https://img.shields.io/badge/Phone-+49%2015511360453-success?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Berlin-10365-black?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
-<!-- Tools and Technologies Section -->
-<h3 align="left">Languages and Tools:</h3>
-
-<h4>Languages:</h4>
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square" />
 </p>
 
-<h4>Data Science & Machine Learning Tools:</h4>
-<p align="left">
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40"/> </a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/> </a>
+<!-- ============== QUICK PITCH ============== -->
+<h2>About</h2>
+
+<ul>
+  <li><b>Informatik-Ingenieur</b> with hands-on experience in <b>IT-Support</b>, <b>Systemadministration</b>, and <b>data-driven analysis</b>.</li>
+  <li>Focus: <b>Windows infrastructure</b>, <b>networking</b>, <b>troubleshooting</b>, plus <b>Python</b> + <b>Power BI</b> for analytics and dashboards.</li>
+  <li>Project highlight: <b>Mercedes-Benz demand forecasting</b> + BI dashboards for planning / supply-chain decisions.</li>
+  <li><b>Germany work permit</b> available — based in <b>Berlin</b>.</li>
+</ul>
+
+<!-- Typing animation (short & professional) -->
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=600&multiline=true&width=900&lines=IT+Support+%7C+System+Administration+%7C+Networking;Python+Data+Analysis+%7C+Power+BI+Dashboards+%7C+Forecasting" />
 </p>
 
-<h4>Frameworks & Libraries:</h4>
-<p align="left">
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/> </a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40" />
-</a>
+<!-- ============== HIGHLIGHTS ============== -->
+<h2>Highlights</h2>
 
+<ul>
+  <li><b>Speed Tech</b> — IT-Support & Systemadministration (Junior): Windows clients, remote/on-site support, VPN, documentation.</li>
+  <li><b>Yazaki</b> — Data & System Analysis internship: demand forecasting model for Mercedes-Benz components + Power BI reporting.</li>
+</ul>
+
+<!-- ============== TECH STACK ============== -->
+<h2>Tech Stack</h2>
+
+<h3>Core IT</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
 </p>
 
-<h4>Cloud & DevOps Tools:</h4>
-<p align="left">
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> </a>
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
+<h3>Data / BI</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
 </p>
 
-<h4>Enterprise Tools:</h4>
-<p align="left">
-<a href="https://www.sap.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="SAP" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/> </a>
+<h3>Backend / Web</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" />
 </p>
+
+<h3>Cloud / Enterprise</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" />
+</p>
+
+<!-- ============== STATS / INTERACTIVE ============== -->
+<h2>GitHub Stats</h2>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&no-frame=true&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true" />
+</p>
+
+<!-- ============== PINNED PROJECTS (MANUAL LINKS) ============== -->
+<h2>Featured Projects</h2>
+
+<ul>
+  <li><b>Mercedes-Benz Demand Forecasting</b> — time series forecasting + dashboards (Python / BI). <i>(Add repo link here)</i></li>
+  <li><b>IT Automation / System Scripts</b> — repeatable tasks automated with scripts. <i>(Add repo link here)</i></li>
+  <li><b>Power BI Reporting</b> — interactive dashboards for operations decisions. <i>(Add repo link here)</i></li>
+</ul>
+
+<!-- ============== CONTACT ============== -->
+<h2>Contact</h2>
+
+<ul>
+  <li>Email: <a href="mailto:hanymedsalah@gmail.com">hanymedsalah@gmail.com</a></li>
+  <li>Phone: <a href="tel:+4915511360453">+49 15511360453</a></li>
+  <li>Location: Berlin (10365), Germany</li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/hany69/">linkedin.com/in/hany69</a></li>
+</ul>
