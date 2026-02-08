@@ -90,19 +90,30 @@ Troubleshooting scripts, automation, documentation.
 
 ---
 
-## GitHub Analytics
+## GitHub Analytics (Dark)
+
+<!-- NOTE: Some badge/graph services occasionally rate-limit.
+     These are the most reliable + themeable options. -->
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hany69x&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hany69x&layout=compact&hide_border=true" />
+  <img width="900" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hany69x&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hany69x&hide_border=true" />
+  <img height="175" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hany69x&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353" />
+  <img height="175" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hany69x&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hany69x&hide_border=true" />
+  <img alt="Streak" src="https://streak-stats.demolab.com?user=hany69x&hide_border=true&theme=github-dark&background=0D1117&ring=39d353&fire=39d353&currStreakLabel=39d353" />
+</p>
+
+<p align="center">
+  <img width="900" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=hany69x&hide_border=true&bg_color=0d1117&color=39d353&line=39d353&point=2ea043&area=true" />
+</p>
+
+<p align="center">
+  <img width="900" alt="Contribution Grid" src="https://ghchart.rshah.org/39d353/hany69x" />
 </p>
 
 ---
