@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
+<!-- Profile Image -->
 <p align="center">
-  <!-- Put your banner inside your repo: /assets/banner.jpg -->
-  <img src="assets/banner.jpg" alt="Hani Mohamed Salah - Banner" width="100%" style="border-radius:14px;" />
+    <img src="Hany Mohamed Salh.jpg" alt="Hany Mohamed Salh" style="width: 1900px; border-radius: 600%;" />
 </p>
 
 <!-- ===================== NAME + ROLE ===================== -->
