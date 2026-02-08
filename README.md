@@ -6,26 +6,16 @@
 
 <!-- =========================================================
   Hani Mohamed Salah — GitHub Profile README (Modern Version)
-  NOTE: GitHub READMEs are static (no JS). This is max polish.
+  GitHub READMEs are static (no JS). This is max polish.
 ========================================================= -->
 
-<!-- ===================== HERO ===================== -->
-<p align="center">
-  <img src="assets/banner.jpg" alt="Hani Mohamed Salah Banner" width="100%" style="border-radius:16px;" />
-</p>
-
-<h1 align="center">Hani Mohamed Salah</h1>
-
-<p align="center">
-  <b>IT Support • System Administration • Business Intelligence & Data Analysis</b><br>
-  Berlin (10365), Germany • Open to IT Support / Junior SysAdmin / BI roles
-</p>
+<!-- ===================== HERO / BANNER ===================== -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&center=true&vCenter=true&width=900&lines=Windows+%26+Microsoft+365+Support;Active+Directory+%2F+DNS+%2F+DHCP+(Basics);Troubleshooting+%7C+Ticketing+%7C+Remote+Support;Python+Data+Analysis+%7C+Power+BI+Dashboards" />
 </p>
 
-<!-- ===================== CONTACT (MODERN BADGES) ===================== -->
+<!-- ===================== CONTACT ===================== -->
 <p align="center">
   <a href="mailto:hanymedsalah@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/Email-hanymedsalah%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -40,36 +30,36 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=hany69x&style=flat-square" />
 </p>
 
 <hr>
 
-<!-- ===================== VALUE (SHORT, SHARP) ===================== -->
+<!-- ===================== WHAT I DO ===================== -->
 <h2>What I Do</h2>
 
 <ul>
   <li><b>IT Support & Admin:</b> diagnose incidents, support users, document fixes, keep systems stable.</li>
-  <li><b>Microsoft & Networking basics:</b> Windows, M365, AD/DNS/DHCP basics, VPN connectivity, remote support.</li>
+  <li><b>Microsoft & Networking (Basics):</b> Windows, M365, AD/DNS/DHCP basics, VPN connectivity, remote support.</li>
   <li><b>BI / Reporting:</b> Python analysis + Power BI dashboards to turn operational data into decisions.</li>
 </ul>
 
-<!-- ===================== “INTERACTIVE” CARDS VIA DETAILS ===================== -->
-<h2>Quick Profile</h2>
+<!-- ===================== COLLAPSIBLE SECTIONS (NO "CLICK") ===================== -->
+<h2>Profile Highlights</h2>
 
 <details>
-  <summary><b>✅ Strengths (click)</b></summary>
+  <summary><b>Strengths</b></summary>
   <br>
   <ul>
     <li>Structured troubleshooting & clear documentation</li>
     <li>User-focused support (remote + on-site)</li>
     <li>Data mindset: KPIs, reporting, forecasting</li>
-    <li>Works well in teams, calm under pressure</li>
+    <li>Calm, reliable, team-oriented</li>
   </ul>
 </details>
 
 <details>
-  <summary><b>🎯 Roles I Target (click)</b></summary>
+  <summary><b>Target Roles</b></summary>
   <br>
   <ul>
     <li>IT Support (1st/2nd Level)</li>
@@ -79,7 +69,7 @@
 </details>
 
 <details>
-  <summary><b>📌 What I’m building now (click)</b></summary>
+  <summary><b>Current Focus</b></summary>
   <br>
   <ul>
     <li>Demand forecasting + dashboards (Python + Power BI)</li>
@@ -90,7 +80,7 @@
 
 <hr>
 
-<!-- ===================== TOOLBOX (CURATED + ICONS) ===================== -->
+<!-- ===================== TOOLBOX ===================== -->
 <h2>IT Skills & Toolbox</h2>
 
 <h3>Systeme & Microsoft</h3>
@@ -137,31 +127,31 @@
 
 <hr>
 
-<!-- ===================== FEATURED (CLEAN, NO LIES) ===================== -->
+<!-- ===================== FEATURED WORK ===================== -->
 <h2>Featured Work</h2>
 
 <ul>
-  <li><b>Automotive Demand Forecasting</b> — forecasting + dashboards for planning decisions (Python / Power BI). <i>Link your repo here</i></li>
-  <li><b>Power BI Dashboards</b> — KPI monitoring & reporting. <i>Link your repo here</i></li>
-  <li><b>IT Support Toolkit</b> — troubleshooting notes + scripts. <i>Link your repo here</i></li>
+  <li><b>Automotive Demand Forecasting</b> — forecasting + dashboards for planning decisions (Python / Power BI). <i>Add repo link</i></li>
+  <li><b>Power BI Dashboards</b> — KPI monitoring & reporting. <i>Add repo link</i></li>
+  <li><b>IT Support Toolkit</b> — troubleshooting notes + scripts. <i>Add repo link</i></li>
 </ul>
 
 <hr>
 
-<!-- ===================== STATS (THE “FLASHY” PART) ===================== -->
+<!-- ===================== GITHUB STATS ===================== -->
 <h2>GitHub</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hany69x&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hany69x&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=hany69x&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hany69x&hide_border=true" />
 </p>
 
 <!-- ===================== FOOTER ===================== -->
