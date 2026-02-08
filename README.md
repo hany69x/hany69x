@@ -1,128 +1,112 @@
 <!-- =====================================================
-   Hani Mohamed Salah — GitHub Profile README (Enhanced)
-   Clean • Structured • Recruiter‑Focused • Modern Layout
-   Static GitHub Compatible (No JS)
+   Hani Mohamed Salah — Premium GitHub README
+   Recruiter‑Focused • Modern • Visual • Professional
 ===================================================== -->
 
-<!-- ================= HERO ================= -->
+<!-- ================= HERO BANNER ================= -->
 <p align="center">
-  <img src="Hany Mohamed Salh.jpg" width="220" style="border-radius:50%" />
+  <img src="Hany Mohamed Salh.jpg" width="300" style="border-radius:50%" />
 </p>
 
 <h1 align="center">Hani Mohamed Salah</h1>
 
 <p align="center">
-IT Support • System Administration • Data & BI Enthusiast
+IT Support • System Administration • Data & BI
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=700&center=true&vCenter=true&width=850&lines=IT+Support+%7C+System+Administration;Microsoft+365+%7C+Active+Directory+Basics;Python+Data+Analysis+%7C+Power+BI+Dashboards;Troubleshooting+%7C+Automation+%7C+Documentation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2400&pause=600&center=true&vCenter=true&width=1000&lines=IT+Support+%7C+System+Administration;Microsoft+365+%7C+Active+Directory+%7C+Networking;Python+Data+Analysis+%7C+Power+BI;Troubleshooting+%7C+Automation+%7C+Documentation" />
 </p>
 
 ---
 
 ## Contact
 
-- Berlin, Germany
-- Email: hanymedsalah@gmail.com
-- Phone: +49 155 11360453
-- LinkedIn: https://www.linkedin.com/in/hanyy/
+<p align="center">
+<img src="https://img.shields.io/badge/Berlin-Germany-black?style=for-the-badge&logo=googlemaps" />
+<img src="https://img.shields.io/badge/Email-hanymedsalah@gmail.com-black?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Phone-+49%2015511360453-black?style=for-the-badge&logo=whatsapp" />
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+</p>
 
 ---
 
-## Professional Focus
+## Core Competencies
 
-### IT Support & Systems
-- Windows environment support (client/server basics)
-- Microsoft 365 administration fundamentals
+### IT Support & Infrastructure
+- Windows Client / Server fundamentals
+- Microsoft 365 administration basics
 - Active Directory, DNS, DHCP basics
-- Remote support and incident troubleshooting
-- Structured documentation and ticket workflows
+- VPN connectivity & networking support
+- Incident troubleshooting & documentation
 
 ### Data & Business Intelligence
-- Python data analysis (pandas, visualization, forecasting basics)
-- Power BI dashboards and reporting
-- KPI tracking and operational analytics
+- Python data analysis & visualization
+- Power BI dashboards & reporting
+- KPI monitoring and operational analytics
 
-### Working Style
-- Analytical and structured troubleshooting
-- Documentation‑driven approach
+### Work Style
+- Structured troubleshooting mindset
+- Documentation‑first approach
 - Calm under pressure
-- Strong user communication mindset
+- User‑centric communication
 
 ---
 
-## Skills Toolbox
+## Technology Stack
 
-### Systems & Infrastructure
-- Windows Client/Server basics
-- Active Directory fundamentals
-- Microsoft 365 environment
-- VPN connectivity and networking basics
-- Backup and recovery basics
-
-### Support & Operations
-- Incident troubleshooting
-- Ticket systems workflow
-- Remote and on‑site support
-- Technical documentation
-
-### Data & Analytics
-- Python data analysis
-- Power BI dashboards
-- SQL (MySQL reporting level)
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="45" />
+<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="45" />
+</p>
 
 ---
 
 ## Featured Projects
 
 ### Automotive Demand Forecasting
-Python + Power BI analytics solution for supply chain planning.
-- Demand forecasting models
-- Dashboard visualization
-- Operational KPI reporting
+Python + Power BI solution supporting supply chain decisions.
 
-### BI Dashboards
-Interactive reporting dashboards focused on decision support.
+### BI Reporting Dashboards
+Interactive dashboards for operational KPIs and insights.
 
 ### IT Support Toolkit
-Troubleshooting notes, automation scripts, and documentation.
+Troubleshooting scripts, automation, documentation.
 
 ---
 
-## Current Development Focus
+## Development Focus 2026
 
-- Strengthening system administration skills
-- Expanding automation scripting
-- Advanced BI dashboard storytelling
-- Real‑world IT troubleshooting scenarios
-
----
-
-## Career Direction
-
-Open to:
-- IT Support / Helpdesk roles
-- Junior System Administration
-- BI Analyst entry positions
-
-Germany‑based opportunities preferred.
+- Advanced system administration
+- Automation scripting
+- Data analytics storytelling
+- Real-world troubleshooting depth
 
 ---
 
-## GitHub Statistics
+## GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hany69x&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hany69x&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hany69x&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hany69x&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hany69x&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hany69x&hide_border=true" />
+</p>
+
 ---
 
 <p align="center">
-Available in Germany • Berlin Based • Fast Learner • Strong Technical Documentation Mindset
+Germany Based • Berlin • Open to IT Support / BI Roles
 </p>
