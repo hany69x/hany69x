@@ -5,8 +5,9 @@
 ===================================================== -->
 
 <!-- ================= HERO ================= -->
+<!-- Profile Image -->
 <p align="center">
-  <img src="Hany Mohamed Salh.jpg" alt="Hani Mohamed Salah" width="320" style="border-radius:50%" />
+    <img src="Hany Mohamed Salh.jpg" alt="Hany Mohamed Salh" style="width: 1900px; border-radius: 600%;" />
 </p>
 
 <h1 align="center">Hani Mohamed Salah</h1>
