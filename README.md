@@ -1,92 +1,174 @@
-<p align="center">
-  <img src="Hany Mohamed Salah.png" alt="Hani Mohamed Salah Header" width="100%">
-</p>
+<table width="100%" style="border-collapse: collapse; border: none; background-color: #0d1117;">
+  <tr style="border: none;">
+    <td width="75%" style="border: none; padding: 20px;">
+      <h1 style="margin-bottom: 0px;"><span style="color: #39d353;">Hani</span> Mohamed Salah</h1>
+      <h3 style="color: #c9d1d9; margin-top: 5px; letter-spacing: 2px;">IT SUPPORT • SYSTEM ADMINISTRATION • DATA & BI</h3>
+      <p style="color: #8b949e; font-size: 14px;">
+        Berlin-based IT professional with strong experience in IT support, system administration, troubleshooting, and data-driven reporting. I combine technical problem-solving with data & BI skills to optimize operations and support smarter business decisions.
+      </p>
+      
+      <a href="https://hani-opal.vercel.app/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-161b22?style=for-the-badge&logoColor=39d353" alt="Portfolio" /></a>
+      <a href="mailto:hanymedsalah@gmail.com"><img src="https://img.shields.io/badge/📧_GMAIL-161b22?style=for-the-badge" alt="Gmail" /></a>
+      <a href="https://www.linkedin.com/in/hanyy/"><img src="https://img.shields.io/badge/🔗_LINKEDIN-161b22?style=for-the-badge" alt="LinkedIn" /></a>
+      <br><br>
+      
+      <img src="https://img.shields.io/badge/📍_Berlin,_Germany-161b22?style=flat-square&color=161b22&labelColor=161b22" />
+      <img src="https://img.shields.io/badge/⚙️_IT_Operations-161b22?style=flat-square&color=161b22" />
+      <img src="https://img.shields.io/badge/📊_Data_&_BI-161b22?style=flat-square&color=161b22" />
+      <a href="https://github.com/hany69x"><img src="https://komarev.com/ghpvc/?username=hany69x&style=flat-square&color=39d353&label=👁️_Profile_Views" alt="Views"/></a>
+    </td>
+    <td width="25%" align="center" style="border: none;">
+      <img src="Hany Mohamed Salah.png" alt="Hani Mohamed Salah" width="220" style="border-radius: 50%; border: 3px solid #39d353;" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <p>
-    <a href="https://hani-opal.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=react&logoColor=39d353" /></a>
-    <a href="mailto:hanymedsalah@gmail.com"><img src="https://img.shields.io/badge/GMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353" /></a>
-    <a href="https://www.linkedin.com/in/hanyy/"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353" /></a>
-  </p>
+<br>
 
-  <p>
-    <img src="https://img.shields.io/badge/Berlin%2C%20Germany-121212?style=flat-square&logo=googlemaps&logoColor=39d353" />
-    <img src="https://img.shields.io/badge/IT_Operations-121212?style=flat-square&logo=windowsterminal&logoColor=39d353" />
-    <img src="https://img.shields.io/badge/Data_%26_BI-121212?style=flat-square&logo=python&logoColor=39d353" />
-    <img src="https://komarev.com/ghpvc/?username=hany69x&style=flat-square&color=39d353&label=PROFILE+VIEWS" />
-  </p>
-</div>
+<table width="100%" style="text-align: left; border-collapse: collapse;">
+  <tr align="center">
+    <td width="25%">🧩 <b>Problem Solver</b><br><sub>Troubleshoot, analyze & fix</sub></td>
+    <td width="25%">📊 <b>Data Driven</b><br><sub>Turn data into decisions</sub></td>
+    <td width="25%">⚙️ <b>Process Optimizer</b><br><sub>Improve efficiency workflows</sub></td>
+    <td width="25%">👥 <b>Team Player</b><br><sub>Collaborate & deliver value</sub></td>
+  </tr>
+</table>
 
----
+<br>
 
-### 👤 ABOUT ME
-[cite_start]Berlin-based **Informatik-Ingenieur** [cite: 10, 51] [cite_start]specializing in **IT System Administration**, **Network Management**, and **Data Analysis**[cite: 10]. [cite_start]I combine technical problem-solving with BI skills to optimize operations and support smarter business decisions[cite: 10, 13].
-
-| 🧩 **Problem Solver** | 📊 **Data Driven** | ⚙️ **Process Optimizer** | 👥 **Team Player** |
-| :--- | :--- | :--- | :--- |
-| Troubleshoot, analyze & fix | Turn data into decisions | Improve efficiency & workflows | Collaborate & deliver value |
-
----
-
-### 🛠 TECH STACK
+<h3 style="color: #39d353;">&lt;/&gt; TECH STACK</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_365-2B579A?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking-39d353?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux,python,mysql,git,github,powershell,bash,azure&theme=dark" alt="Tech Stack Icons"/>
+  </a>
+  <img src="https://img.shields.io/badge/Microsoft_365-2B579A?style=for-the-badge&logo=microsoft-office&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" height="48" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="48" />
 </p>
 
----
+<br>
 
-### 📊 GITHUB STATS
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="35%" valign="top" style="border: 1px solid #30363d; padding: 15px; border-radius: 8px;">
+      <h3 style="color: #c9d1d9;">👤 ABOUT ME</h3>
+      <p style="font-size: 13px; color: #8b949e;">I help organizations run smoother IT operations and make better decisions with data. My background combines hands-on IT support & system administration with data analytics and BI reporting.</p>
+      <ul style="font-size: 13px; list-style-type: none; padding-left: 0;">
+        <li>🟢 IT Support & Troubleshooting</li>
+        <li>🟢 System Administration & M365</li>
+        <li>🟢 Active Directory - Networking Basics</li>
+        <li>🟢 Data Analysis with Python & SQL</li>
+        <li>🟢 Power BI Dashboards & Reporting</li>
+        <li>🟢 Documentation & Process Optimization</li>
+      </ul>
+    </td>
+    
+    <td width="65%" valign="top" style="border: 1px solid #30363d; padding: 15px; border-radius: 8px;">
+      <h3 style="color: #c9d1d9;">📊 GITHUB STATS</h3>
+      <p align="center">
+        <a href="https://github.com/hany69x">
+          <img src="https://github-readme-stats.vercel.app/api?username=hany69x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353" height="150" />
+        </a>
+        <a href="https://github.com/hany69x">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hany69x&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" height="150" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=hany69x&hide_border=true&bg_color=0d1117&color=39d353&line=39d353&point=2ea043&area=true&height=250" width="100%" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h3 style="color: #39d353;">⭐ FEATURED PROJECTS</h3>
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 15px;">
+      <b>📊 Business Operations Dashboard</b><br>
+      <p style="font-size: 13px; color: #8b949e;">Power BI dashboard for tracking rent, revenue, utilization, planning and KPI performance.</p>
+      <img src="https://img.shields.io/badge/Power_BI-161b22?style=flat-square&color=161b22&text=39d353" />
+      <img src="https://img.shields.io/badge/Excel-161b22?style=flat-square&color=161b22" />
+      <img src="https://img.shields.io/badge/DAX-161b22?style=flat-square&color=161b22" />
+      <br><br><a href="#" style="color: #39d353; font-size: 13px; text-decoration: none;">View Project →</a>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 15px;">
+      <b>📈 Demand Forecasting Analysis</b><br>
+      <p style="font-size: 13px; color: #8b949e;">Python driven forecasting and analysis for automotive parts demand and supply chain planning.</p>
+      <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&color=161b22" />
+      <img src="https://img.shields.io/badge/Pandas-161b22?style=flat-square&color=161b22" />
+      <img src="https://img.shields.io/badge/Forecasting-161b22?style=flat-square&color=161b22" />
+      <br><br><a href="#" style="color: #39d353; font-size: 13px; text-decoration: none;">View Project →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 15px;">
+      <b>📉 Sales & Performance Dashboard</b><br>
+      <p style="font-size: 13px; color: #8b949e;">Interactive Power BI dashboard for sales performance, targets, regions and product analytics.</p>
+      <img src="https://img.shields.io/badge/Power_BI-161b22?style=flat-square&color=161b22" />
+      <img src="https://img.shields.io/badge/Data_Modeling-161b22?style=flat-square&color=161b22" />
+      <br><br><a href="#" style="color: #39d353; font-size: 13px; text-decoration: none;">View Project →</a>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 15px;">
+      <b>🛠️ IT Support Toolkit</b><br>
+      <p style="font-size: 13px; color: #8b949e;">Collection of IT troubleshooting guides, scripts, checklists and best practices for daily support tasks.</p>
+      <img src="https://img.shields.io/badge/Docs-161b22?style=flat-square&color=161b22" />
+      <img src="https://img.shields.io/badge/PowerShell-161b22?style=flat-square&color=161b22" />
+      <img src="https://img.shields.io/badge/Windows-161b22?style=flat-square&color=161b22" />
+      <br><br><a href="#" style="color: #39d353; font-size: 13px; text-decoration: none;">View Project →</a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hany69x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hany69x&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" />
-</p>
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hany69x&hide_border=true&bg_color=0d1117&color=39d353&line=39d353&point=2ea043&area=true" />
+  <a href="https://github.com/hany69x?tab=repositories"><img src="https://img.shields.io/badge/VIEW_MORE_PROJECTS_ON_GITHUB-161b22?style=for-the-badge&logo=github&logoColor=39d353" /></a>
 </p>
 
----
+<br>
 
-### ⭐ FEATURED PROJECTS
-* [cite_start]**Business Operations Dashboard** [cite: 25, 48]
-    * [cite_start]Power BI dashboard tracking revenue, utilization, and KPI performance[cite: 27, 28].
-    * [cite_start]*Stack: Power BI, Excel, DAX*[cite: 27, 65].
-* [cite_start]**Demand Forecasting Analysis** [cite: 42, 44]
-    * [cite_start]Python-driven forecasting for automotive parts demand and supply chain planning for Mercedes-Benz components[cite: 44, 45].
-    * [cite_start]*Stack: Python, Pandas, Scikit-Learn, Prophet*[cite: 47].
-* [cite_start]**IT Support Toolkit** [cite: 40]
-    * [cite_start]Centralized collection of troubleshooting guides, PowerShell scripts, and M365 checklists[cite: 34, 37].
-    * [cite_start]*Stack: PowerShell, Windows, Documentation*[cite: 36, 40].
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="33%" valign="top" style="border: 1px solid #30363d; padding: 15px; border-radius: 8px;">
+      <h4 style="color: #c9d1d9;">📜 ZERTIFIKATE</h4>
+      <ul style="font-size: 12px; color: #8b949e; padding-left: 15px;">
+        <li>Power BI Data Analysis</li>
+        <li>Microsoft Azure Fundamentals</li>
+        <li>Time Series Analysis with Python</li>
+        <li>Implementing an SAP Solution</li>
+        <li>Designing an SAP Solution</li>
+        <li>Data Analysis with ChatGPT</li>
+        <li>Google - IT Support Professional</li>
+      </ul>
+    </td>
 
----
+    <td width="33%" valign="top" style="border: 1px solid #30363d; padding: 15px; border-radius: 8px;">
+      <h4 style="color: #c9d1d9;">🏆 ACHIEVEMENTS</h4>
+      <p style="font-size: 12px; color: #8b949e;">
+        <b>⭐ Consistent Contributor</b><br>Maintaining an active contribution streak.<br><br>
+        <b>🧩 Problem Solver</b><br>Resolved numerous IT issues & incidents.<br><br>
+        <b>📊 Data Enthusiast</b><br>Turning data into insights & reports.
+      </p>
+    </td>
 
-### 📜 ZERTIFIKATE & ACHIEVEMENTS
-* [cite_start]🏆 **Power BI Data Analysis** [cite: 65]
-* [cite_start]☁️ **Microsoft Azure Fundamentals** [cite: 67]
-* [cite_start]🐍 **Time Series Analysis with Python** [cite: 68]
-* [cite_start]💼 **Implementing & Designing SAP Solutions** [cite: 69, 70]
-* [cite_start]🤖 **Data Analysis with ChatGPT** [cite: 71]
-* [cite_start]🛠️ **Google IT Support Professional** [cite: 72]
+    <td width="33%" valign="top" style="border: 1px solid #30363d; padding: 15px; border-radius: 8px;">
+      <h4 style="color: #c9d1d9;">📖 CURRENTLY LEARNING</h4>
+      <p style="font-size: 12px; color: #8b949e; font-family: monospace;">
+        Advanced Power BI & DAX <br>
+        <span style="color: #39d353;">██████████████</span>░░░░░░ 70%<br><br>
+        Azure Fundamentals <br>
+        <span style="color: #39d353;">████████████</span>░░░░░░░░ 60%<br><br>
+        Python for Data Engineering <br>
+        <span style="color: #39d353;">█████████████</span>░░░░░░░ 65%<br><br>
+        Linux & Server Admin <br>
+        <span style="color: #39d353;">██████████</span>░░░░░░░░░░ 50%
+      </p>
+    </td>
+  </tr>
+</table>
 
----
-
-### 🎓 CURRENTLY LEARNING
-- **Advanced Power BI & DAX** 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ **70%**
-- **Azure Fundamentals** 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ **60%**
-- **Python for Data Engineering** 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ **65%**
-- **Linux & Server Administration** 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ **50%**
-
----
+<br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/OPEN_TO-IT_SUPPORT_|_SYS_ADMIN_|_DATA_&_BI_ROLES-39d353?style=for-the-badge&logoColor=0d1117" />
-  <br>
-  <sub>Berlin & Remote • 2026</sub>
+  <img src="https://img.shields.io/badge/🚀_Open_to_IT_Support,_System_Administration,_Data_&_BI_roles_in_Berlin_and_Remote-161b22?style=for-the-badge" />
 </div>
