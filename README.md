@@ -1,34 +1,27 @@
 <!-- =====================================================
-   Hani Mohamed Salah — Premium GitHub README
-   Recruiter-Focused • Modern • Visual • Professional
-   Static GitHub Compatible (No JS)
+   Hani Mohamed Salah — Premium GitHub Profile README
+   Modern • Interactive • Recruiter-Focused
 ===================================================== -->
 
-<!-- ================= HERO ================= -->
-<!-- Profile Image -->
 <p align="center">
-    <img src="Hany Mohamed Salah.png" alt="Hany Mohamed Salh" style="width: 1900px; border-radius: 600%;" />
+  <img src="Hany Mohamed Salah.png" alt="Hani Mohamed Salah" width="100%" style="border-radius: 24px;" />
 </p>
 
 <h1 align="center">Hani Mohamed Salah</h1>
 
-<p align="center">
-  IT Support • System Administration • Data & BI
-</p>
+<h3 align="center">
+  IT Support • System Administration • Data Analytics • Power BI
+</h3>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2400&pause=600&center=true&vCenter=true&width=1000&lines=IT+Support+%7C+System+Administration;Microsoft+365+%7C+Active+Directory+%7C+Networking;Python+Data+Analysis+%7C+Power+BI;Troubleshooting+%7C+Automation+%7C+Documentation"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2400&pause=700&center=true&vCenter=true&width=1000&lines=IT+Support+%7C+System+Administration+%7C+Troubleshooting;Microsoft+365+%7C+Windows+%7C+Active+Directory+%7C+Networking;Power+BI+%7C+Excel+%7C+Python+Data+Analysis;Documentation+%7C+Process+Optimization+%7C+Reporting"
     alt="Typing SVG"
   />
 </p>
 
----
-
-## Contact
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Berlin%2C%20Germany-0d1117?style=for-the-badge&logo=googlemaps&logoColor=39d353" />
+  <img src="https://img.shields.io/badge/Based%20in-Berlin%2C%20Germany-0d1117?style=for-the-badge&logo=googlemaps&logoColor=39d353" />
   <a href="mailto:hanymedsalah@gmail.com">
     <img src="https://img.shields.io/badge/Email-hanymedsalah%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353" />
   </a>
@@ -36,113 +29,223 @@
     <img src="https://img.shields.io/badge/Phone-+49%2015511360453-0d1117?style=for-the-badge&logo=whatsapp&logoColor=39d353" />
   </a>
   <a href="https://www.linkedin.com/in/hanyy/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353" />
+    <img src="https://img.shields.io/badge/LinkedIn-hanyy-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353" />
+  </a>
+  <a href="https://hani-opal.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Website-0d1117?style=for-the-badge&logo=vercel&logoColor=39d353" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hany69x&style=flat-square&color=39d353" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hany69x&style=flat-square&color=39d353" alt="Profile Views" />
 </p>
 
 ---
 
-## What I Do
+## About Me
 
-- **IT Support & Admin:** diagnose incidents, support users, document fixes, keep systems stable.
-- **Microsoft & Networking (Basics):** Windows, M365, AD/DNS/DHCP basics, VPN connectivity, remote support.
-- **BI / Reporting:** Python analysis + Power BI dashboards to turn operational data into decisions.
+I am an IT-focused professional based in Berlin, working across **IT support, system administration, documentation, process optimization, and data-driven reporting**.
+
+My profile combines two strong areas:
+
+- **IT Operations:** user support, troubleshooting, Windows/Microsoft environments, remote support, documentation, and stable daily operations.
+- **Data & BI:** Excel, Power BI, Python-based analysis, KPI reporting, forecasting, and dashboard thinking.
+
+I do not just want to “work in IT.” I want to build reliable systems, solve real problems, and make technical information clear enough for teams and management to act on.
 
 ---
 
-## Profile Highlights
+## Interactive Profile
 
-<details>
-  <summary><b>Strengths</b></summary>
+<details open>
+  <summary><b>What I Do</b></summary>
   <br>
-  <ul>
-    <li>Structured troubleshooting & clear documentation</li>
-    <li>User-focused support (remote + on-site)</li>
-    <li>Data mindset: KPIs, reporting, forecasting</li>
-    <li>Calm, reliable, team-oriented</li>
-  </ul>
+
+  - IT support and troubleshooting  
+  - Windows and Microsoft 365 user support  
+  - Active Directory, DNS, DHCP, VPN basics  
+  - Power BI dashboards and KPI reporting  
+  - Excel and Python-based data analysis  
+  - Documentation and process optimization  
+
 </details>
 
 <details>
   <summary><b>Target Roles</b></summary>
   <br>
-  <ul>
-    <li>IT Support (1st/2nd Level)</li>
-    <li>Junior System Administrator / IT Specialist</li>
-    <li>BI Analyst / Reporting (Power BI + Python)</li>
-  </ul>
+
+  - IT Support Specialist  
+  - 1st / 2nd Level Support  
+  - Junior System Administrator  
+  - Fachinformatiker Systemintegration  
+  - BI / Reporting Assistant  
+  - IT Operations & Data Support  
+
 </details>
 
 <details>
   <summary><b>Current Focus</b></summary>
   <br>
-  <ul>
-    <li>Demand forecasting + dashboards (Python + Power BI)</li>
-    <li>IT support playbooks & troubleshooting checklists</li>
-    <li>Automation scripts for repetitive tasks</li>
-  </ul>
+
+  - Building stronger Power BI dashboards  
+  - Improving Python data analysis projects  
+  - Creating IT support playbooks  
+  - Learning deeper Microsoft 365 and system administration workflows  
+  - Developing a stronger technical portfolio  
+
 </details>
 
 ---
 
-## Technology Stack
+## Current Focus
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>IT Support & System Administration</h3>
+      <ul>
+        <li>1st / 2nd level troubleshooting</li>
+        <li>Windows client and workplace support</li>
+        <li>Microsoft 365 and user support</li>
+        <li>Active Directory, DNS, DHCP, VPN basics</li>
+        <li>Remote support and technical documentation</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>Data, BI & Reporting</h3>
+      <ul>
+        <li>Power BI dashboards and KPI reporting</li>
+        <li>Excel-based business analysis</li>
+        <li>Python data cleaning and analysis</li>
+        <li>Forecasting and operational planning</li>
+        <li>Turning raw data into practical decisions</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="45" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,python,mysql,git,github,vscode,azure" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20365-0d1117?style=for-the-badge&logo=microsoft&logoColor=39d353" />
+  <img src="https://img.shields.io/badge/Active%20Directory-0d1117?style=for-the-badge&logo=windows&logoColor=39d353" />
+  <img src="https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=39d353" />
+  <img src="https://img.shields.io/badge/Excel-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=39d353" />
+  <img src="https://img.shields.io/badge/Networking-0d1117?style=for-the-badge&logo=cisco&logoColor=39d353" />
+  <img src="https://img.shields.io/badge/Documentation-0d1117?style=for-the-badge&logo=notion&logoColor=39d353" />
+</p>
+
+---
+
+## Core Skills
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Support</h3>
+      <ul>
+        <li>Troubleshooting</li>
+        <li>Remote support</li>
+        <li>User assistance</li>
+        <li>Ticket-style documentation</li>
+        <li>Hardware/software setup</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Systems</h3>
+      <ul>
+        <li>Windows client/server basics</li>
+        <li>Microsoft 365</li>
+        <li>Active Directory basics</li>
+        <li>DNS / DHCP / TCP-IP</li>
+        <li>VPN and network basics</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Data</h3>
+      <ul>
+        <li>Power BI dashboards</li>
+        <li>Excel reporting</li>
+        <li>Python analysis</li>
+        <li>Forecasting basics</li>
+        <li>KPI design</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Featured Projects
 
-- **Automotive Demand Forecasting** — Python + Power BI solution supporting supply-chain planning. *(Add repo link)*
-- **BI Reporting Dashboards** — interactive KPI dashboards and reporting. *(Add repo link)*
-- **IT Support Toolkit** — troubleshooting notes, scripts, documentation. *(Add repo link)*
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Automotive Demand Forecasting</h3>
+      <p>
+        Python and BI-based forecasting concept for automotive parts demand, inspired by supply-chain and production planning workflows.
+      </p>
+      <p>
+        <b>Focus:</b> forecasting, data preparation, trend analysis, reporting.
+      </p>
+      <p>
+        <code>Python</code> <code>Pandas</code> <code>Forecasting</code> <code>Power BI</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Business Operations Dashboard</h3>
+      <p>
+        Dashboard concept for tracking rent, revenue, utilization, monthly planning, and operational KPIs from Excel-based business data.
+      </p>
+      <p>
+        <b>Focus:</b> KPI design, Power BI visuals, Excel transformation, management reporting.
+      </p>
+      <p>
+        <code>Power BI</code> <code>Excel</code> <code>Data Modeling</code> <code>KPI Reporting</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>IT Support Toolkit</h3>
+      <p>
+        Practical documentation and scripts for common IT support tasks, troubleshooting steps, and repeatable admin workflows.
+      </p>
+      <p>
+        <b>Focus:</b> documentation, support playbooks, troubleshooting structure.
+      </p>
+      <p>
+        <code>Windows</code> <code>PowerShell</code> <code>Support</code> <code>Documentation</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Portfolio Website</h3>
+      <p>
+        Personal portfolio presenting IT, data, projects, skills, and professional background in a modern recruiter-friendly format.
+      </p>
+      <p>
+        <b>Focus:</b> personal branding, project presentation, clean UI, professional visibility.
+      </p>
+      <p>
+        <code>React</code> <code>Vercel</code> <code>UI Design</code> <code>Portfolio</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## GitHub Analytics (Dark)
+## Professional Snapshot
 
-<p align="center">
-  <img width="900" alt="Profile Details"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hany69x&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img height="175" alt="GitHub Stats"
-       src="https://github-readme-stats.vercel.app/api?username=hany69x&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353&cache_seconds=86400" />
-  <img height="175" alt="Top Languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=hany69x&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img alt="Streak"
-       src="https://streak-stats.demolab.com?user=hany69x&hide_border=true&theme=github-dark&background=0D1117&ring=39d353&fire=39d353&currStreakLabel=39d353" />
-</p>
-
-<p align="center">
-  <img width="900" alt="Activity Graph"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=hany69x&hide_border=true&bg_color=0d1117&color=39d353&line=39d353&point=2ea043&area=true" />
-</p>
-
-<p align="center">
-  <img width="900" alt="Contribution Grid"
-       src="https://ghchart.rshah.org/39d353/hany69x" />
-</p>
-
----
-
-<p align="center">
-  Germany Based • Berlin • Open to IT Support / BI Roles
-</p>
+```text
+Role Focus:      IT Support | System Administration | Data & BI
+Location:        Berlin, Germany
+Strengths:       Troubleshooting, documentation, reporting, process optimization
+Tools:           Windows, Microsoft 365, Power BI, Excel, Python, Git
+Target Roles:    IT Support, Junior System Administrator, IT Specialist, BI/Reporting
