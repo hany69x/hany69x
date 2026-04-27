@@ -20,7 +20,7 @@
 ---
 
 ### 👤 ABOUT ME
-Berlin-based **Informatik-Ingenieur** specializing in **IT System Administration**, **Network Management**, and **Data Analysis**. I combine technical problem-solving with BI skills to optimize operations and support smarter business decisions.
+[cite_start]Berlin-based **Informatik-Ingenieur** [cite: 10, 51] [cite_start]specializing in **IT System Administration**, **Network Management**, and **Data Analysis**[cite: 10]. [cite_start]I combine technical problem-solving with BI skills to optimize operations and support smarter business decisions[cite: 10, 13].
 
 | 🧩 **Problem Solver** | 📊 **Data Driven** | ⚙️ **Process Optimizer** | 👥 **Team Player** |
 | :--- | :--- | :--- | :--- |
@@ -45,4 +45,48 @@ Berlin-based **Informatik-Ingenieur** specializing in **IT System Administration
 
 ### 📊 GITHUB STATS
 <p align="center">
-  <img height="180" src="
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hany69x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hany69x&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" />
+</p>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hany69x&hide_border=true&bg_color=0d1117&color=39d353&line=39d353&point=2ea043&area=true" />
+</p>
+
+---
+
+### ⭐ FEATURED PROJECTS
+* [cite_start]**Business Operations Dashboard** [cite: 25, 48]
+    * [cite_start]Power BI dashboard tracking revenue, utilization, and KPI performance[cite: 27, 28].
+    * [cite_start]*Stack: Power BI, Excel, DAX*[cite: 27, 65].
+* [cite_start]**Demand Forecasting Analysis** [cite: 42, 44]
+    * [cite_start]Python-driven forecasting for automotive parts demand and supply chain planning for Mercedes-Benz components[cite: 44, 45].
+    * [cite_start]*Stack: Python, Pandas, Scikit-Learn, Prophet*[cite: 47].
+* [cite_start]**IT Support Toolkit** [cite: 40]
+    * [cite_start]Centralized collection of troubleshooting guides, PowerShell scripts, and M365 checklists[cite: 34, 37].
+    * [cite_start]*Stack: PowerShell, Windows, Documentation*[cite: 36, 40].
+
+---
+
+### 📜 ZERTIFIKATE & ACHIEVEMENTS
+* [cite_start]🏆 **Power BI Data Analysis** [cite: 65]
+* [cite_start]☁️ **Microsoft Azure Fundamentals** [cite: 67]
+* [cite_start]🐍 **Time Series Analysis with Python** [cite: 68]
+* [cite_start]💼 **Implementing & Designing SAP Solutions** [cite: 69, 70]
+* [cite_start]🤖 **Data Analysis with ChatGPT** [cite: 71]
+* [cite_start]🛠️ **Google IT Support Professional** [cite: 72]
+
+---
+
+### 🎓 CURRENTLY LEARNING
+- **Advanced Power BI & DAX** 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ **70%**
+- **Azure Fundamentals** 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ **60%**
+- **Python for Data Engineering** 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ **65%**
+- **Linux & Server Administration** 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ **50%**
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/OPEN_TO-IT_SUPPORT_|_SYS_ADMIN_|_DATA_&_BI_ROLES-39d353?style=for-the-badge&logoColor=0d1117" />
+  <br>
+  <sub>Berlin & Remote • 2026</sub>
+</div>
