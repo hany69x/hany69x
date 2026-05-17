@@ -439,3 +439,248 @@ flowchart LR
     E -->|No| G[Escalate with Clear Notes]
     F --> H[Prevent Repeated Issue]
     G --> H
+```
+
+</details>
+
+<details>
+<summary><b>System Administration Workflow</b></summary>
+
+```mermaid
+flowchart LR
+    A[Request / Incident] --> B[User & Access Check]
+    B --> C[System / Network Diagnosis]
+    C --> D[Apply Fix or Configuration]
+    D --> E[Test Functionality]
+    E --> F[Document Change]
+    F --> G[Stable Operation]
+```
+
+</details>
+
+<details>
+<summary><b>Data & BI Workflow</b></summary>
+
+```mermaid
+flowchart LR
+    A[Raw Data] --> B[Clean & Structure Data]
+    B --> C[Create KPIs]
+    C --> D[Analyze Trends]
+    D --> E[Build Dashboard]
+    E --> F[Explain Insights]
+    F --> G[Support Business Decision]
+```
+
+</details>
+
+<details>
+<summary><b>Forecasting Workflow</b></summary>
+
+```mermaid
+flowchart LR
+    A[Historical Demand Data] --> B[Data Preparation]
+    B --> C[Trend & Seasonality Analysis]
+    C --> D[Forecast Model]
+    D --> E[Result Evaluation]
+    E --> F[Planning Insight]
+    F --> G[Operational Improvement]
+```
+
+</details>
+
+---
+
+## Professional Roadmap
+
+```mermaid
+timeline
+    title IT Operations + Data/BI Growth Path
+
+    Foundation
+      : IT Support
+      : Windows Troubleshooting
+      : User Support
+      : Documentation
+
+    Systems
+      : Microsoft 365
+      : Active Directory
+      : Networking Fundamentals
+      : Security Basics
+
+    Data & BI
+      : Excel Reporting
+      : Power BI Dashboards
+      : Python Data Analysis
+      : KPI Tracking
+
+    Next Level
+      : PowerShell Automation
+      : Azure Administration
+      : Advanced System Administration
+      : Stronger Production Projects
+```
+
+---
+
+## Certifications
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/Power%20BI-365%20Data%20Science-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+<br>
+<sub>Business Intelligence & Dashboards</sub>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/Time%20Series-Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
+<br>
+<sub>Forecasting & Data Analysis</sub>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/Google-Technical%20Support-111827?style=for-the-badge&logo=google&logoColor=4285F4" />
+<br>
+<sub>IT Support Fundamentals</sub>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/Microsoft-Azure-111827?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" />
+<br>
+<sub>Cloud Services & Security Basics</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/SAP-Solution%20Design-111827?style=for-the-badge&logo=sap&logoColor=0FAAFF" />
+<br>
+<sub>Business Solution Thinking</sub>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/Data%20Analysis-ChatGPT-111827?style=for-the-badge&logo=openai&logoColor=white" />
+<br>
+<sub>AI-Assisted Data Analysis</sub>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/Azure-Security%20Basics-111827?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" />
+<br>
+<sub>Cloud Management Tools</sub>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/7%2B-Certificates-111827?style=for-the-badge" />
+<br>
+<sub>IT • Cloud • Data • BI</sub>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Show Certificate Verification IDs</b></summary>
+
+| Certificate | Provider | Verification |
+|---|---|---|
+| Power BI | 365 Data Science | `CC-D95DCD5209` |
+| Time Series Analysis with Python | 365 Data Science | `CC-D73B26F17D` |
+| Data Analysis with ChatGPT | 365 Data Science | `CC-E68BD47ECB` |
+| Technical Support Fundamentals | Google / Coursera | `CEA625G223UC` |
+| Introduction to Microsoft Azure Cloud Services | Microsoft / Coursera | `DSY26NQHTAHY` |
+| Azure Management Tools and Security Solutions | Microsoft / Coursera | `KLLLFVANSKXT` |
+| Designing an SAP Solution | SAP / Coursera | `MWHWF2595ZEV` |
+
+</details>
+
+---
+
+## Current Focus
+
+```txt
+IT Support & Troubleshooting     ████████████████████░   Windows • M365 • User Support
+System Administration            ████████████████░░░░░   AD • Networking • Documentation
+Data & Business Intelligence     ███████████████████░░   Power BI • Excel • Python
+Forecasting & Analytics          ███████████████░░░░░░   Time Series • KPIs • Reporting
+Automation & Cloud Growth        ███████████░░░░░░░░░░   PowerShell • Azure • Security
+Frontend & Web Presence          ██████████████░░░░░░░   React • TypeScript • Tailwind • Vercel
+```
+
+---
+
+## Why This Profile Matters
+
+Most junior GitHub profiles are weak because they only list tools.  
+This profile shows something stronger: **technical ability, business understanding, project structure, and operational thinking**.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Technical Value
+
+- IT support mindset  
+- Windows and Microsoft 365 familiarity  
+- Troubleshooting structure  
+- Active Directory and networking fundamentals  
+- Documentation habits  
+- Data and reporting ability  
+- Python and Power BI project work  
+
+</td>
+<td width="50%" valign="top">
+
+### Business Value
+
+- Projects connected to real operations  
+- Dashboards and KPIs  
+- Forecasting and planning concepts  
+- Clear communication  
+- Process improvement mindset  
+- Recruiter-friendly presentation  
+- Practical solutions, not empty decoration  
+
+</td>
+</tr>
+</table>
+
+---
+
+## Open to Opportunities
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IT%20Support-111827?style=for-the-badge&logo=windows&logoColor=0078D4" />
+  <img src="https://img.shields.io/badge/Service%20Desk-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Administration-111827?style=for-the-badge&logo=microsoft&logoColor=0078D4" />
+  <img src="https://img.shields.io/badge/IT%20Operations-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20%26%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/Junior%20System%20Admin-111827?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="mailto:hanybenz69@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://www.linkedin.com/in/hanyy/">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://hani-opal.vercel.app/">
+    <img src="https://img.shields.io/badge/View%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>IT Support • System Administration • Data & BI • Forecasting • Business Operations</b>
+</p>
