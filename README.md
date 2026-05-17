@@ -1,19 +1,19 @@
 <!-- ==========================================================
    Hani Mohamed Salah — Premium GitHub Profile README
-   Stable Version • No Broken Image Cards • Recruiter-Focused
+   Stable Visual Version • Recruiter-Focused • Modern Layout
    IT Support • System Administration • Data & BI • Forecasting
 ========================================================== -->
 
 <!-- ======================= HERO ======================= -->
 
-<h1 align="center">Hi, I'm Hani Mohamed Salah</h1>
+<h1 align="center">Hani Mohamed Salah</h1>
 
 <h3 align="center">
 IT Support • System Administration • Data & BI • Forecasting
 </h3>
 
 <p align="center">
-  <b>Berlin, Germany</b> · Open to IT Support, System Administration, IT Operations, Data & BI roles
+  <b>Berlin, Germany</b> · Windows · Microsoft 365 · Active Directory · Networking · Power BI · Python
 </p>
 
 <p align="center">
@@ -34,20 +34,27 @@ IT Support • System Administration • Data & BI • Forecasting
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hany69x&style=for-the-badge&color=0e75b6" />
   <img src="https://img.shields.io/badge/Berlin-Germany-111827?style=for-the-badge&logo=googlemaps&logoColor=34A853" />
-  <img src="https://img.shields.io/badge/Open%20to-Work-111827?style=for-the-badge&logo=target&logoColor=7ee787" />
+  <img src="https://img.shields.io/badge/Open%20to-IT%20Support%20%7C%20System%20Admin%20%7C%20Data%20BI-111827?style=for-the-badge" />
 </p>
 
 ---
 
-<!-- ======================= VISUAL HEADLINE ======================= -->
+<!-- ======================= MAIN VISUAL STRIP ======================= -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-111827?style=for-the-badge&logo=windows&logoColor=0078D4" />
   <img src="https://img.shields.io/badge/Microsoft%20365-111827?style=for-the-badge&logo=microsoft&logoColor=0078D4" />
-  <img src="https://img.shields.io/badge/Active%20Directory-111827?style=for-the-badge&logo=windows&logoColor=0078D4" />
+  <img src="https://img.shields.io/badge/Active%20Directory-111827?style=for-the-badge&logo=microsoft&logoColor=0078D4" />
   <img src="https://img.shields.io/badge/Networking-111827?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IT%20Support-Troubleshooting-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Admin-Windows%20%7C%20M365-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20%26%20BI-Power%20BI%20%7C%20Excel-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Forecasting-Python%20%7C%20Time%20Series-0f172a?style=for-the-badge" />
 </p>
 
 ---
@@ -58,36 +65,60 @@ IT Support • System Administration • Data & BI • Forecasting
 <tr>
 <td width="25%" align="center">
 
-### IT Support
+<h3>IT Support</h3>
 
-**Windows · M365 · Troubleshooting**
+<img src="https://img.shields.io/badge/Level-Strong-111827?style=flat-square" />
+
+<br><br>
+
+<b>Windows · M365 · Troubleshooting</b>
+
+<br><br>
 
 User support, incident analysis, hardware/software support, ticket handling, documentation, escalation.
 
 </td>
 <td width="25%" align="center">
 
-### System Administration
+<h3>System Administration</h3>
 
-**AD · Networking · Security Basics**
+<img src="https://img.shields.io/badge/Level-Growing-111827?style=flat-square" />
+
+<br><br>
+
+<b>AD · Networking · Security Basics</b>
+
+<br><br>
 
 Windows environments, user accounts, TCP/IP, DNS, DHCP, VPN fundamentals.
 
 </td>
 <td width="25%" align="center">
 
-### Data & BI
+<h3>Data & BI</h3>
 
-**Power BI · Excel · Python**
+<img src="https://img.shields.io/badge/Level-Strong-111827?style=flat-square" />
+
+<br><br>
+
+<b>Power BI · Excel · Python</b>
+
+<br><br>
 
 Dashboards, KPI reporting, data cleaning, business insights, forecasting concepts.
 
 </td>
 <td width="25%" align="center">
 
-### Business Operations
+<h3>Business Operations</h3>
 
-**Processes · Reports · Automation**
+<img src="https://img.shields.io/badge/Focus-Value-111827?style=flat-square" />
+
+<br><br>
+
+<b>Processes · Reports · Automation</b>
+
+<br><br>
 
 I connect IT, data, and operations to create practical business value.
 
@@ -109,6 +140,8 @@ I build projects that show **real problem-solving, technical structure, business
 
 ## Tech Stack & Platforms
 
+### IT Support, Systems & Infrastructure
+
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-111827?style=for-the-badge&logo=windows&logoColor=0078D4" />
   <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" />
@@ -116,7 +149,14 @@ I build projects that show **real problem-solving, technical structure, business
   <img src="https://img.shields.io/badge/Microsoft%20365-111827?style=for-the-badge&logo=microsoft&logoColor=0078D4" />
   <img src="https://img.shields.io/badge/Azure-111827?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" />
   <img src="https://img.shields.io/badge/PowerShell-111827?style=for-the-badge&logo=powershell&logoColor=5391FE" />
+  <img src="https://img.shields.io/badge/Active%20Directory-111827?style=for-the-badge&logo=microsoft&logoColor=0078D4" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DNS-111827?style=for-the-badge&logo=cloudflare&logoColor=F38020" />
+  <img src="https://img.shields.io/badge/DHCP-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VPN-111827?style=for-the-badge&logo=openvpn&logoColor=EA7E20" />
 </p>
+
+### Data, BI & Analytics
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
@@ -126,7 +166,11 @@ I build projects that show **real problem-solving, technical structure, business
   <img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
   <img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoftexcel&logoColor=217346" />
   <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Forecasting-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/KPI%20Reporting-111827?style=for-the-badge" />
 </p>
+
+### Web, Version Control & Deployment
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -144,26 +188,28 @@ I build projects that show **real problem-solving, technical structure, business
 ## Core Keywords
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IT%20Support-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Service%20Desk-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Windows%20Administration-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Microsoft%20365-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Active%20Directory-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/TCP%2FIP-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/DNS-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/DHCP-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/VPN-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Troubleshooting-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hardware%20Support-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Software%20Support-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Ticketing-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Documentation-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Power%20BI-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Excel%20Reporting-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python%20Data%20Analysis-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Forecasting-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/KPI%20Dashboards-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Business%20Intelligence-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/IT%20Support-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Service%20Desk-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Windows%20Administration-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Microsoft%20365-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Active%20Directory-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/DNS-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/DHCP-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/VPN-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Troubleshooting-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hardware%20Support-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Software%20Support-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ticketing-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Documentation-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power%20BI-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Excel%20Reporting-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python%20Data%20Analysis-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Forecasting-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/KPI%20Dashboards-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Business%20Intelligence-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Process%20Optimization-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Operations%20Analytics-0f172a?style=flat-square" />
 </p>
 
 ---
@@ -230,6 +276,12 @@ I build projects that show **real problem-solving, technical structure, business
 
 <h3>Rental Portfolio Analytics</h3>
 
+<p>
+  <img src="https://img.shields.io/badge/Type-Data%20Analytics-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Rental%20KPIs-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Value-Business%20Reporting-111827?style=flat-square" />
+</p>
+
 A business analytics project for rental operations, portfolio performance, KPI tracking, and revenue visibility.
 
 **Business Value**
@@ -255,6 +307,12 @@ A business analytics project for rental operations, portfolio performance, KPI t
 
 <h3>Feinglanz Web Platform</h3>
 
+<p>
+  <img src="https://img.shields.io/badge/Type-Web%20Platform-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Business%20Website-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Value-Client%20Presence-111827?style=flat-square" />
+</p>
+
 A modern company web platform focused on professional presentation, service structure, branding, and client communication.
 
 **Business Value**
@@ -279,6 +337,12 @@ A modern company web platform focused on professional presentation, service stru
 <td width="33%" valign="top">
 
 <h3>Yazaki & Mercedes-Benz Forecasting</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Type-Forecasting-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Automotive%20Demand-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Value-Planning%20Support-111827?style=flat-square" />
+</p>
 
 An automotive demand forecasting concept inspired by supply-chain planning for Yazaki and Mercedes-Benz related production environments.
 
@@ -306,47 +370,53 @@ An automotive demand forecasting concept inspired by supply-chain planning for Y
 
 ---
 
-## Repository Highlights
+## Project Gallery
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" align="center">
 
-### Rental Portfolio Analytics
+<h3>Rental Analytics</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Type-Data%20Analytics-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Rental%20KPIs-111827?style=for-the-badge" />
-</p>
+<img src="https://img.shields.io/badge/Python-Data%20Pipeline-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
+<br>
+<img src="https://img.shields.io/badge/Pandas-Data%20Cleaning-111827?style=for-the-badge&logo=pandas&logoColor=150458" />
+<br>
+<img src="https://img.shields.io/badge/Business%20KPIs-Reporting-111827?style=for-the-badge" />
 
-**Repository:**  
-[github.com/hany69x/rental-portfolio-analytics](https://github.com/hany69x/rental-portfolio-analytics)
+<br><br>
 
-</td>
-<td width="33%" valign="top">
-
-### Feinglanz Web Platform
-
-<p>
-  <img src="https://img.shields.io/badge/Type-Web%20Platform-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Business%20Website-111827?style=for-the-badge" />
-</p>
-
-**Repository:**  
-[github.com/hany69x/feinglanz](https://github.com/hany69x/feinglanz)
+<a href="https://github.com/hany69x/rental-portfolio-analytics">View Repository</a>
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" align="center">
 
-### Yazaki Forecasting
+<h3>Feinglanz Platform</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Type-Forecasting-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Automotive%20Demand-111827?style=for-the-badge" />
-</p>
+<img src="https://img.shields.io/badge/React-Frontend-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<br>
+<img src="https://img.shields.io/badge/Tailwind-UI%20Design-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+<br>
+<img src="https://img.shields.io/badge/Vercel-Deployment-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 
-**Repository:**  
-[github.com/hany69x/YAZAKI](https://github.com/hany69x/YAZAKI)
+<br><br>
+
+<a href="https://github.com/hany69x/feinglanz">View Repository</a>
+
+</td>
+<td width="33%" align="center">
+
+<h3>Automotive Forecasting</h3>
+
+<img src="https://img.shields.io/badge/Python-Forecasting-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
+<br>
+<img src="https://img.shields.io/badge/Time%20Series-Demand%20Planning-111827?style=for-the-badge" />
+<br>
+<img src="https://img.shields.io/badge/Automotive-Supply%20Chain-111827?style=for-the-badge" />
+
+<br><br>
+
+<a href="https://github.com/hany69x/YAZAKI">View Repository</a>
 
 </td>
 </tr>
