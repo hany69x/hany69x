@@ -1,20 +1,20 @@
 <!-- ==========================================================
    Hani Mohamed Salah — Premium GitHub Profile README
+   Stable Version • No Broken Image Cards • Recruiter-Focused
    IT Support • System Administration • Data & BI • Forecasting
-   GitHub-Safe Visuals • Recruiter-Focused • Modern Layout
 ========================================================== -->
 
-<!-- ======================= HERO HEADER ======================= -->
+<!-- ======================= HERO ======================= -->
+
+<h1 align="center">Hi, I'm Hani Mohamed Salah</h1>
+
+<h3 align="center">
+IT Support • System Administration • Data & BI • Forecasting
+</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:0f172a,55:111827,80:1e293b,100:0f766e&text=Hani%20Mohamed%20Salah&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=IT%20Support%20%7C%20System%20Administration%20%7C%20Data%20%26%20BI%20%7C%20Forecasting&descSize=19&descAlignY=58&animation=fadeIn" />
+  <b>Berlin, Germany</b> · Open to IT Support, System Administration, IT Operations, Data & BI roles
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2300&pause=700&center=true&vCenter=true&width=1050&lines=IT+Support+%7C+Windows+%7C+Microsoft+365+%7C+Active+Directory;System+Administration+%7C+Networking+%7C+Troubleshooting+%7C+Documentation;Power+BI+%7C+Excel+%7C+Python+%7C+Business+Reporting;Automotive+Forecasting+%7C+Operations+Analytics+%7C+KPI+Dashboards;Building+practical+IT+and+data+solutions+with+business+impact" alt="Typing Animation" />
-</p>
-
-<!-- ======================= CONTACT BADGES ======================= -->
 
 <p align="center">
   <a href="https://hani-opal.vercel.app/">
@@ -33,52 +33,63 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hany69x&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/badge/Based%20in-Berlin%2C%20Germany-111827?style=for-the-badge&logo=googlemaps&logoColor=34A853" />
-  <img src="https://img.shields.io/badge/Open%20to-IT%20Support%20%7C%20System%20Admin%20%7C%20Data%20BI-111827?style=for-the-badge&logo=target&logoColor=7ee787" />
+  <img src="https://img.shields.io/badge/Berlin-Germany-111827?style=for-the-badge&logo=googlemaps&logoColor=34A853" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-111827?style=for-the-badge&logo=target&logoColor=7ee787" />
 </p>
 
 ---
 
-<!-- ======================= QUICK VALUE DASHBOARD ======================= -->
+<!-- ======================= VISUAL HEADLINE ======================= -->
 
-## Professional Dashboard
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-111827?style=for-the-badge&logo=windows&logoColor=0078D4" />
+  <img src="https://img.shields.io/badge/Microsoft%20365-111827?style=for-the-badge&logo=microsoft&logoColor=0078D4" />
+  <img src="https://img.shields.io/badge/Active%20Directory-111827?style=for-the-badge&logo=windows&logoColor=0078D4" />
+  <img src="https://img.shields.io/badge/Networking-111827?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
+</p>
 
-<table width="100%">
+---
+
+## Professional Snapshot
+
+<table>
 <tr>
 <td width="25%" align="center">
 
-<img src="https://img.shields.io/badge/IT%20Support-Strong-111827?style=for-the-badge&logo=headset&logoColor=7ee787" />
+### IT Support
 
-**Windows • M365 • Troubleshooting**
+**Windows · M365 · Troubleshooting**
 
-User support, incident analysis, device setup, documentation, escalation.
+User support, incident analysis, hardware/software support, ticket handling, documentation, escalation.
 
 </td>
 <td width="25%" align="center">
 
-<img src="https://img.shields.io/badge/System%20Admin-Growing-111827?style=for-the-badge&logo=microsoft&logoColor=0078D4" />
+### System Administration
 
-**AD • Networking • Security Basics**
+**AD · Networking · Security Basics**
 
 Windows environments, user accounts, TCP/IP, DNS, DHCP, VPN fundamentals.
 
 </td>
 <td width="25%" align="center">
 
-<img src="https://img.shields.io/badge/Data%20%26%20BI-Strong-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+### Data & BI
 
-**Power BI • Excel • Python**
+**Power BI · Excel · Python**
 
-Dashboards, KPI tracking, reporting, data cleaning, business insights.
+Dashboards, KPI reporting, data cleaning, business insights, forecasting concepts.
 
 </td>
 <td width="25%" align="center">
 
-<img src="https://img.shields.io/badge/Business%20Mindset-High-111827?style=for-the-badge&logo=chartdotjs&logoColor=FF6384" />
+### Business Operations
 
-**Reports • Processes • Forecasting**
+**Processes · Reports · Automation**
 
-I connect IT, operations, and data to create measurable business value.
+I connect IT, data, and operations to create practical business value.
 
 </td>
 </tr>
@@ -86,35 +97,25 @@ I connect IT, operations, and data to create measurable business value.
 
 ---
 
-<!-- ======================= ABOUT ME ======================= -->
-
 ## About Me
 
 I am an **IT Support, System Administration, and Data & BI professional based in Berlin**, focused on solving technical problems, improving operational workflows, and turning data into clear business insights.
 
 My profile combines hands-on IT support with analytical thinking: **Windows client/server environments, Microsoft 365, Active Directory fundamentals, networking, troubleshooting, hardware/software support, IT documentation, Power BI dashboards, Excel reporting, Python data analysis, KPI tracking, and forecasting concepts**.
 
-I build projects that are not just visual — they are designed to show **real problem-solving, technical structure, business value, and recruiter-ready communication**.
+I build projects that show **real problem-solving, technical structure, business value, and recruiter-ready communication**.
 
 ---
-
-<!-- ======================= TECHNOLOGY STACK ======================= -->
 
 ## Tech Stack & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,python,powershell,mysql,git,github,vscode,visualstudio,react,typescript,javascript,html,css,tailwind,vercel,azure" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Windows-111827?style=for-the-badge&logo=windows&logoColor=0078D4" />
   <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Ubuntu-111827?style=for-the-badge&logo=ubuntu&logoColor=E95420" />
   <img src="https://img.shields.io/badge/Microsoft%20365-111827?style=for-the-badge&logo=microsoft&logoColor=0078D4" />
-  <img src="https://img.shields.io/badge/Active%20Directory-111827?style=for-the-badge&logo=windows&logoColor=0078D4" />
   <img src="https://img.shields.io/badge/Azure-111827?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" />
   <img src="https://img.shields.io/badge/PowerShell-111827?style=for-the-badge&logo=powershell&logoColor=5391FE" />
-  <img src="https://img.shields.io/badge/Networking-111827?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/DNS%20%7C%20DHCP%20%7C%20VPN-111827?style=for-the-badge&logo=cloudflare&logoColor=F38020" />
 </p>
 
 <p align="center">
@@ -140,40 +141,36 @@ I build projects that are not just visual — they are designed to show **real p
 
 ---
 
-<!-- ======================= CORE KEYWORDS ======================= -->
-
 ## Core Keywords
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IT%20Support-111827?style=flat-square&logo=headset&logoColor=7ee787" />
-  <img src="https://img.shields.io/badge/Service%20Desk-111827?style=flat-square&logo=zendesk&logoColor=7ee787" />
-  <img src="https://img.shields.io/badge/Windows%20Administration-111827?style=flat-square&logo=windows&logoColor=0078D4" />
-  <img src="https://img.shields.io/badge/Microsoft%20365-111827?style=flat-square&logo=microsoft&logoColor=0078D4" />
-  <img src="https://img.shields.io/badge/Active%20Directory-111827?style=flat-square&logo=windows&logoColor=0078D4" />
-  <img src="https://img.shields.io/badge/TCP%2FIP-111827?style=flat-square&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/DNS-111827?style=flat-square&logo=cloudflare&logoColor=F38020" />
-  <img src="https://img.shields.io/badge/DHCP-111827?style=flat-square&logo=serverfault&logoColor=white" />
-  <img src="https://img.shields.io/badge/VPN-111827?style=flat-square&logo=openvpn&logoColor=EA7E20" />
-  <img src="https://img.shields.io/badge/Troubleshooting-111827?style=flat-square&logo=wrench&logoColor=7ee787" />
-  <img src="https://img.shields.io/badge/Hardware%20Support-111827?style=flat-square&logo=hp&logoColor=0096D6" />
-  <img src="https://img.shields.io/badge/Software%20Support-111827?style=flat-square&logo=windows&logoColor=0078D4" />
-  <img src="https://img.shields.io/badge/Ticketing-111827?style=flat-square&logo=jira&logoColor=0052CC" />
-  <img src="https://img.shields.io/badge/Documentation-111827?style=flat-square&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-111827?style=flat-square&logo=powerbi&logoColor=F2C811" />
-  <img src="https://img.shields.io/badge/Excel%20Reporting-111827?style=flat-square&logo=microsoftexcel&logoColor=217346" />
-  <img src="https://img.shields.io/badge/Python%20Data%20Analysis-111827?style=flat-square&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Forecasting-111827?style=flat-square&logo=chartdotjs&logoColor=FF6384" />
-  <img src="https://img.shields.io/badge/KPI%20Dashboards-111827?style=flat-square&logo=googlesheets&logoColor=34A853" />
-  <img src="https://img.shields.io/badge/Business%20Intelligence-111827?style=flat-square&logo=tableau&logoColor=E97627" />
+  <img src="https://img.shields.io/badge/IT%20Support-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Service%20Desk-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Windows%20Administration-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Microsoft%20365-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Active%20Directory-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/DNS-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/DHCP-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/VPN-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Troubleshooting-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hardware%20Support-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Software%20Support-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ticketing-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Documentation-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power%20BI-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Excel%20Reporting-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python%20Data%20Analysis-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Forecasting-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/KPI%20Dashboards-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Business%20Intelligence-111827?style=flat-square" />
 </p>
 
 ---
 
-<!-- ======================= SKILL MATRIX ======================= -->
-
 ## Skill Matrix
 
-<table width="100%">
+<table>
 <tr>
 <td width="33%" valign="top">
 
@@ -184,7 +181,7 @@ I build projects that are not just visual — they are designed to show **real p
 - Microsoft 365 user support  
 - Account and access support  
 - Device setup and configuration  
-- Printer, laptop, monitor and mobile device support  
+- Printer, laptop, monitor, and mobile device support  
 - Ticket handling and prioritization  
 - User communication and documentation  
 - Escalation with clear technical notes  
@@ -225,11 +222,9 @@ I build projects that are not just visual — they are designed to show **real p
 
 ---
 
-<!-- ======================= FEATURED PROJECTS ======================= -->
-
 ## Featured Projects
 
-<table width="100%">
+<table>
 <tr>
 <td width="33%" valign="top">
 
@@ -311,25 +306,53 @@ An automotive demand forecasting concept inspired by supply-chain planning for Y
 
 ---
 
-<!-- ======================= LIVE REPOSITORY CARDS ======================= -->
-
 ## Repository Highlights
 
-<p align="center">
-  <a href="https://github.com/hany69x/rental-portfolio-analytics">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=hany69x&repo=rental-portfolio-analytics&theme=github_dark&hide_border=true&bg_color=020617&title_color=7ee787&text_color=c9d1d9&icon_color=7ee787" />
-  </a>
-  <a href="https://github.com/hany69x/feinglanz">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=hany69x&repo=feinglanz&theme=github_dark&hide_border=true&bg_color=020617&title_color=7ee787&text_color=c9d1d9&icon_color=7ee787" />
-  </a>
-  <a href="https://github.com/hany69x/YAZAKI">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=hany69x&repo=YAZAKI&theme=github_dark&hide_border=true&bg_color=020617&title_color=7ee787&text_color=c9d1d9&icon_color=7ee787" />
-  </a>
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Rental Portfolio Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Type-Data%20Analytics-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Rental%20KPIs-111827?style=for-the-badge" />
 </p>
 
----
+**Repository:**  
+[github.com/hany69x/rental-portfolio-analytics](https://github.com/hany69x/rental-portfolio-analytics)
 
-<!-- ======================= INTERACTIVE WORKFLOWS ======================= -->
+</td>
+<td width="33%" valign="top">
+
+### Feinglanz Web Platform
+
+<p>
+  <img src="https://img.shields.io/badge/Type-Web%20Platform-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Business%20Website-111827?style=for-the-badge" />
+</p>
+
+**Repository:**  
+[github.com/hany69x/feinglanz](https://github.com/hany69x/feinglanz)
+
+</td>
+<td width="33%" valign="top">
+
+### Yazaki Forecasting
+
+<p>
+  <img src="https://img.shields.io/badge/Type-Forecasting-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Automotive%20Demand-111827?style=for-the-badge" />
+</p>
+
+**Repository:**  
+[github.com/hany69x/YAZAKI](https://github.com/hany69x/YAZAKI)
+
+</td>
+</tr>
+</table>
+
+---
 
 ## Interactive Workflows
 
